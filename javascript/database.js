@@ -1,58 +1,58 @@
-const livros = [
+const books = [
   {
     id: 1,
-    nome: "Digital Minimalism",
-    autor: "Cal Newport",
-    categoria: "Produtividade e estilo de vida",
-    paginas: 254,
-    recomenda: false,
-    leu: false
+    name: "Digital Minimalism",
+    author: "Cal Newport",
+    category: "Produtividade e estilo de vida",
+    pages: 254,
+    recommends: false,
+    read: false
   },
   {
     id: 2,
-    nome: "O Genocídio do negro brasileiro",
-    autor: "Abdias do Nascimento",
-    categoria: "História brasileira",
-    paginas: 254,
-    recomenda: false,
-    leu: false
+    name: "O Genocídio do negro brasileiro",
+    author: "Abdias do Nascimento",
+    category: "História brasileira",
+    pages: 254,
+    recommends: false,
+    read: false
   },
   {
     id: 3,
-    nome: "As veias abertas da américa latina",
-    autor: "Eduardo Galeano",
-    categoria: "Américas",
-    paginas: 400,
-    recomenda: false,
-    leu: false
+    name: "As veias abertas da américa latina",
+    author: "Eduardo Galeano",
+    category: "Américas",
+    pages: 400,
+    recommends: false,
+    read: false
   },
   {
     id: 4,
-    nome: "Algoritmos para viver",
-    autor: "Brian Christian",
-    categoria: "Tecnologia",
-    paginas: 412,
-    recomenda: true,
-    leu: true
+    name: "Algoritmos para viver",
+    author: "Brian Christian",
+    category: "Tecnologia",
+    pages: 412,
+    recommends: true,
+    read: true
   },
   {
     id: 5,
-    nome: "Pensamento rápido e devagar",
-    autor: "Daniel Kahneman",
-    categoria: "Estilo de vida",
-    paginas: 418,
-    recomenda: true,
-    leu: true
+    name: "Pensamento rápido e devagar",
+    author: "Daniel Kahneman",
+    category: "Estilo de vida",
+    pages: 418,
+    recommends: true,
+    read: true
   },
   {
     id: 6,
-    nome: "Padrões Javascript",
-    autor: "Stoyan Stefanov",
-    categoria: "Tecnologia",
-    paginas: 231,
-    recomenda: true,
-    leu: true
+    name: "Padrões Javascript",
+    author: "Stoyan Stefanov",
+    category: "Tecnologia",
+    pages: 231,
+    recommends: true,
+    read: true
   },
 ];
 
-module.exports = livros;
+module.exports = books;
