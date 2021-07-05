@@ -1,6 +1,6 @@
-![]('./images/logo.png') 
-![]('./images/gamaAcademy.png')
-![]('./images/vtex.png')
+![](./images/logo.png)
+![](./images/gamaAcademy.png)
+![](./images/vtex.png)
 
 # Repositório HiringCoders
 
