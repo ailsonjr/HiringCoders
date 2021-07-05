@@ -1,4 +1,8 @@
-# REpositório HiringCoders
+![]('./images/logo.png') 
+![]('./images/gamaAcademy.png')
+![]('./images/vtex.png')
+
+# Repositório HiringCoders
 
 ## Sobre:
 
